@@ -33,7 +33,7 @@ You can view the project live here:
 
 💬 Product reviews and ratings
 
-- Adding review and comment: Users can add their review and ideas about product
+- Adding rating and comment: Users can add their rating and ideas about product
 
 👨‍💼 Admin
 

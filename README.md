@@ -50,7 +50,7 @@ You can view the project live here:
 - 👉 Form management - React Hook Form
 - 👉 Backend - Node.js, Express
 - 👉 Database - Mongo DB
-- 👉 Other tools - React Icons, React Hot Toast, JWT
+- 👉 Other tools - React Icons, React Toastify, JWT
 
 ## References
 
